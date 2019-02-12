@@ -11,6 +11,6 @@ Things to do:
    - (Survey Due: Feb. 12)
    - (Character Profile Due: Feb. 15)
    
-4. Reflect on the use of the methods; what went well, what went poorly, what you would do differently. (Due: Feb. 16)
+4. Reflect on the use of the methods; what went well, what went poorly, what you would do differently. (Due: Feb. 16) (Everyone)
 
 5. Six to Eight task descriptions (Due: Feb. 16) (Esther, Tyler)
