@@ -1,0 +1,21 @@
+Project description
+
+Goal:
+	- Matchmaking to other gamers (1 to 1)
+	- Profile based 
+	- Social approach
+Differences from other similar apps:
+	- Instead of getting put into groups of people you know nothing about, get to know the person you get matched to 
+	- Develop more meaningful friendships/relationships
+		? More personal 
+Features
+	- Profile
+		? Bio
+		? Games you play
+		? Personality chart
+		? Profile pic
+	- Chat
+	- Matching
+		? Based on games set on profile
+		? Match based on my games, all games, specific game
+	
