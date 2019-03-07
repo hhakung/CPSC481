@@ -14,3 +14,25 @@ Things to do:
 4. Reflect on the use of the methods; what went well, what went poorly, what you would do differently. (Due: Feb. 16) (Everyone)
 
 5. Six to Eight task descriptions (Due: Feb. 16) (Esther, Tyler)
+
+
+PRESENTATION
+	- The Problem
+		○ What it is
+		○ Stakeholders?
+		○ Project Description
+	- Research Methods
+		○ Survey
+		○ Character Profiles
+		○ Reflection
+	- Ideation
+		○ Show sketches
+		○ Our ideas
+			§ Tinder
+			§ LFG
+			§ RPG?
+		○ Current Design
+			§ Motivation
+	- Prototype
+		○ Balsamiq
+      ○ How it solves the problem
