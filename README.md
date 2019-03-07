@@ -17,22 +17,39 @@ Things to do:
 
 
 PRESENTATION
+
 	- The Problem
+	
 		○ What it is
+		
 		○ Stakeholders?
+		
 		○ Project Description
+		
 	- Research Methods
+	
 		○ Survey
+		
 		○ Character Profiles
+		
 		○ Reflection
+		
 	- Ideation
+	
 		○ Show sketches
+		
 		○ Our ideas
+		
 			§ Tinder
+			
 			§ LFG
+			
 			§ RPG?
+			
 		○ Current Design
+		
 			§ Motivation
 	- Prototype
+	
 		○ Balsamiq
-      ○ How it solves the problem
+		○ How it solves the problem
