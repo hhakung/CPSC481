@@ -54,52 +54,51 @@ PRESENTATION
 		○ Balsamiq
 		○ How it solves the problem
 
--Front Page
-	Login + Register
+- Front Page
+	- Login + Register
 	
--Create Profile page
-	If register
-	maybe same as edit profile
+- Create Profile page
+	- If register
+	- maybe same as edit profile
 
--Profile Page
-	Border
-	Background
-	Bio
-	Album
-	Games played
-	Edit (yours)
-	requesst / (message) (theirs)
+- Profile Page
+	- Border
+	- Background
+	- Bio
+	- Album
+	- Games played
+	- Edit (yours)
+	- requesst / (message) (theirs)
 	
 
--Graph
-
+- Graph
 -	MAtches
-		Hovering brings up profile summary
-			Has profile pic
-			Bio
-			message
-		Circle with profile pic
-			smaller circles games played
-		Summary -> Profile
+	-	Hovering brings up profile summary
+		-	Has profile pic
+		-	Bio
+		-	message
+	-	Circle with profile pic
+		-	smaller circles games played
+	-	Summary -> Profile
 -	Another graph with genre in the center
-		Genre/Filter
-		Side arrow tab pop up thing
+	-	Genre/Filter
+	-	Side arrow tab pop up thing
 -	Main graph
-		Profile in center
-		Matches attacached as branches
-			further out are not as close as matches
-			matches based on games + other stuff
-		outer circle has games floating around
-			based on our algorithm
-			drag onto graph
-				a) Makes a new branch
+	-	Profile in center
+	-	Matches attacached as branches
+		-	further out are not as close as matches
+		-	matches based on games + other stuff
+	-	outer circle has games floating around
+		-	based on our algorithm
+		-	drag onto graph
+		-		a) Makes a new branch
 						
 
-Request Page
-	If we have this page we should probably put the chat here too
+- Request Page
+	- If we have this page we should probably put the chat here too
 	
-Chat bubbles at bottom
-	When clicked goes to the location of the person on the graph
+- Chat bubbles at bottom
+	- When clicked goes to the location of the person on the graph
 
-Help & Documentation
+- Help & Documentation
 	
