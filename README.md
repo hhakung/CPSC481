@@ -54,14 +54,14 @@ PRESENTATION
 		○ Balsamiq
 		○ How it solves the problem
 
-Front Page
+-Front Page
 	Login + Register
 	
-Create Profile page
+-Create Profile page
 	If register
 	maybe same as edit profile
 
-Profile Page
+-Profile Page
 	Border
 	Background
 	Bio
@@ -71,8 +71,9 @@ Profile Page
 	requesst / (message) (theirs)
 	
 
-Graph
-	MAtches
+-Graph
+
+-	MAtches
 		Hovering brings up profile summary
 			Has profile pic
 			Bio
@@ -80,10 +81,10 @@ Graph
 		Circle with profile pic
 			smaller circles games played
 		Summary -> Profile
-	Another graph with genre in the center
+-	Another graph with genre in the center
 		Genre/Filter
 		Side arrow tab pop up thing
-	Main graph
+-	Main graph
 		Profile in center
 		Matches attacached as branches
 			further out are not as close as matches
