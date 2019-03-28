@@ -1,3 +1,25 @@
+# CPSC481_P4
+
+https://docs.google.com/document/d/1oTW_EZnnSfsNdEYeYoscGisl9zC63bSlzpmSnHb9bAU/edit?usp=sharing
+
+User Tasks:
+1. chat with hhakyung
+2. send a request to sktt1faker
+3. edit your bio 
+
+
+- ask them to think aloud while doing the tasks
+- observe 
+- see how long they took to do the tasks
+- feedback at the very end
+	- what was hard (rate 1-5)
+	- what was easy (rate 1-5)
+	- would you use it
+	- what to improve on
+	- general impression
+
+
+
 # CPSC481_P1
 
 https://silvadasilva.github.io/CPSC481-2019W/en/#!pages/project1.md
