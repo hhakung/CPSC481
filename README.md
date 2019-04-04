@@ -1,5 +1,29 @@
 # CPSC481_P4
 
+Your presentation should present ideas at a very high level, and should cover the following topics:
+- Who is this presentation/project report for? - kevin
+- What is the design problem being addressed here? - jeffery
+- Who are you designing for, and what is the context of their activities? - kevin
+- What are the main things you discovered in your user research? - sunah
+- What were the major design decisions that you made? (i.e. what did you decide were must haves vs. should haves; how did you arrive at the final design ideas?) - tyler
+- How do you justify your design decisions? - tyler
+- What did you discover from your heuristic evaluation? - esther
+- What did you discover from your user testing? - esther
+- How would you address these in the next iteration of the design? 
+
+You should organize your final report with the following headings (roughly):
+- Executive Summary
+- Introduction - kevin
+- Design Problem - jeffery
+- User Research and Findings - sunah
+- Design and Justification - tyler
+- Heuristic Evaluation and Findings - esther
+- User Testing and Findings - esther
+- Recommendations for Next Iteration of Design - all
+- Conclusions 
+
+
+
 https://docs.google.com/document/d/1oTW_EZnnSfsNdEYeYoscGisl9zC63bSlzpmSnHb9bAU/edit?usp=sharing
 
 User Tasks:
