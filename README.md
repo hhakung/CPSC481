@@ -26,6 +26,19 @@ You should organize your final report with the following headings (roughly):
 - Recommendations for Next Iteration of Design - all
 - Conclusions 
 
+#### TUTORIAL SLIDES FOR PRESENTATION
+
+- Introduce the problem
+- Discuss
+	- The users
+	- How you did the research
+	- Sketching and prototyping
+	- The final idea
+- Demo (x2, x3)
+	- Introduce task
+	- Do walkthrough
+- Questions (after 15 minutes or finish presentation)
+
 
 
 https://docs.google.com/document/d/1oTW_EZnnSfsNdEYeYoscGisl9zC63bSlzpmSnHb9bAU/edit?usp=sharing
