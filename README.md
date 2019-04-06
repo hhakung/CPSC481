@@ -3,6 +3,9 @@
 THE FINAL REPORT 
 https://docs.google.com/document/d/1gp-0HYIpkpRoYQGujJlDZ0vMa75cN3ybEztudi4-c7w/edit?usp=sharing
 
+THE FINAL PRESENTATION
+https://docs.google.com/presentation/d/1Di0zUMpNN4UYAcL3mVYuZLKT6b2qB9s5IL1uhup7f4U/edit?usp=sharing
+
 
 Your presentation should present ideas at a very high level, and should cover the following topics:
 - Who is this presentation/project report for? - kevin
