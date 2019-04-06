@@ -1,5 +1,12 @@
 # CPSC481_P4
 
+THE FINAL REPORT 
+https://docs.google.com/document/d/1gp-0HYIpkpRoYQGujJlDZ0vMa75cN3ybEztudi4-c7w/edit?usp=sharing
+
+THE FINAL PRESENTATION
+https://docs.google.com/presentation/d/1Di0zUMpNN4UYAcL3mVYuZLKT6b2qB9s5IL1uhup7f4U/edit?usp=sharing
+
+
 Your presentation should present ideas at a very high level, and should cover the following topics:
 - Who is this presentation/project report for? - kevin
 - What is the design problem being addressed here? - jeffery
@@ -21,6 +28,19 @@ You should organize your final report with the following headings (roughly):
 - User Testing and Findings - esther
 - Recommendations for Next Iteration of Design - all
 - Conclusions 
+
+#### TUTORIAL SLIDES FOR PRESENTATION
+
+- Introduce the problem
+- Discuss
+	- The users
+	- How you did the research
+	- Sketching and prototyping
+	- The final idea
+- Demo (x2, x3)
+	- Introduce task
+	- Do walkthrough
+- Questions (after 15 minutes or finish presentation)
 
 
 
